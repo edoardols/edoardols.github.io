@@ -10,6 +10,11 @@
 * 	Template Style 
 *
 * ======================================================= */
+
+/*
+* Color
+* #FF9000
+*/
 body {
   font-family: "Space Mono", Arial, serif;
   font-weight: 400;
@@ -981,9 +986,13 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 50px 0;
   float: left;
   width: 100%;
+  /* modified 30/03/2022 */
+  background-color: #FF9000;
 }
 #fh5co-footer p:last-child {
   margin-bottom: 0;
+  /* modified 30/03/2022 */
+  color: white;
 }
 
 .contact-info {
